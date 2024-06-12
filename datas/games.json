@@ -1,0 +1,178 @@
+[
+  {
+    "id": "1",
+    "name": "Meow! Sen ơi đừng sợ",
+    "image": "https://minio.dev.ftech.ai/funzy/cms/2024/05/08/AppIconMeow-b.png",
+    "servers": [
+      {
+        "id": "1",
+        "name": "S1 - Huyền Thoại"
+      },
+      {
+        "id": "2",
+        "name": "S2 - Huyền Thoại"
+      },
+      {
+        "id": "3",
+        "name": "S3 - Huyền Thoại"
+      },
+      {
+        "id": "4",
+        "name": "S4 - Huyền Thoại"
+      },
+      {
+        "id": "5",
+        "name": "S5 - Huyền Thoại"
+      }
+    ],
+    "packages": [
+      {
+        "id": "1",
+        "name": "Gói 1",
+        "price": 100,
+        "description": "Đây là gói 1",
+        "image": "https://minio.dev.ftech.ai/funzy/cms/2024/04/02/%E9%AD%94%E6%9B%B9%E6%93%8D.png",
+        "conditions": [
+          "Điều kiện 1",
+          "Điều kiện 2"
+        ],
+        "type": {
+          "id": "1",
+          "name": "daily"
+        }
+      },
+      {
+        "id": "2",
+        "name": "Gói 2",
+        "price": 200,
+        "description": "Đây là gói 2",
+        "image": "https://minio.dev.ftech.ai/funzy/cms/2024/04/02/%E9%AD%94%E6%9B%B9%E6%93%8D.png",
+        "conditions": [
+          "Điều kiện 1",
+          "Điều kiện 2"
+        ],
+        "type": {
+          "id": "2",
+          "name": "weekly"
+        }
+      },
+      {
+        "id": "3",
+        "name": "Gói 3",
+        "price": 300,
+        "description": "Đây là gói 3",
+        "image": "https://minio.dev.ftech.ai/funzy/cms/2024/04/02/%E9%AD%94%E6%9B%B9%E6%93%8D.png",
+        "conditions": [
+          "Điều kiện 1",
+          "Điều kiện 2"
+        ],
+        "type": {
+          "id": "3",
+          "name": "monthly"
+        }
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Biệt Đội Đùn Đùn",
+    "image": "https://game.funzy.vn/uploads/180x180_85f1cf702f.png",
+    "servers": [
+      {
+        "id": "1",
+        "name": "S1 - Đùn Đùn"
+      },
+      {
+        "id": "2",
+        "name": "S2 - Đùn Đùn"
+      },
+      {
+        "id": "3",
+        "name": "S3 - Đùn Đùn"
+      },
+      {
+        "id": "4",
+        "name": "S4 - Đùn Đùn"
+      },
+      {
+        "id": "5",
+        "name": "S5 - Đùn Đùn"
+      }
+    ],
+    "packages": [
+      {
+        "id": "1",
+        "name": "Gói 1",
+        "price": 100,
+        "description": "Đây là gói 1",
+        "image": "https://minio.dev.ftech.ai/funzy/cms/2023/11/07/60.png",
+        "conditions": [
+          "Điều kiện 1",
+          "Điều kiện 2"
+        ],
+        "type": {
+          "id": "1",
+          "name": "hot"
+        }
+      },
+      {
+        "id": "2",
+        "name": "Gói 2",
+        "price": 200,
+        "description": "Đây là gói 2",
+        "image": "https://minio.dev.ftech.ai/funzy/cms/2023/11/07/60.png",
+        "conditions": [
+          "Điều kiện 1",
+          "Điều kiện 2"
+        ],
+        "type": {
+          "id": "1",
+          "name": "hot"
+        }
+      },
+      {
+        "id": "3",
+        "name": "Gói 3",
+        "price": 300,
+        "description": "Đây là gói 3",
+        "image": "https://minio.dev.ftech.ai/funzy/cms/2023/11/07/60.png",
+        "conditions": [
+          "Điều kiện 1",
+          "Điều kiện 2"
+        ],
+        "type": {
+          "id": "3",
+          "name": "promotion"
+        }
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Loạn Chiến Mobile",
+    "image": "https://game.funzy.vn/uploads/150x150_eda8b65e18.png",
+    "servers": [
+      {
+        "id": "1",
+        "name": "S1 - Huyền Thoại"
+      },
+      {
+        "id": "2",
+        "name": "S2 - Huyền Thoại"
+      },
+      {
+        "id": "3",
+        "name": "S3 - Huyền Thoại"
+      },
+      {
+        "id": "4",
+        "name": "S4 - Huyền Thoại"
+      },
+      {
+        "id": "5",
+        "name": "S5 - Huyền Thoại"
+      }
+    ],
+    "packages": []
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": "1",
+  "name": "Test Name",
+  "balance": 1000,
+  "characters": [
+    {
+      "id": "1",
+      "name": "Temp",
+      "serverId": "1",
+      "vipLevel": 1,
+      "gameId": "1"
+    },
+    {
+      "id": "2",
+      "name": "Character 2",
+      "serverId": "2",
+      "vipLevel": 2,
+      "gameId": "2"
+    }
+  ]
+}
